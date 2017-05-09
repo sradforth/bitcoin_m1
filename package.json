@@ -1,0 +1,28 @@
+{
+  "name": "bitcoin_m1",
+  "version": "1.0.0",
+  "description": "View country valuation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sradforth/bitcoin_m1.git"
+  },
+  "keywords": [
+    "bitcoin"
+  ],
+  "author": "= <=> (=)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sradforth/bitcoin_m1/issues"
+  },
+  "homepage": "https://github.com/sradforth/bitcoin_m1#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "node-currency-swap": "^1.0.6",
+    "request": "^2.81.0"
+  }
+}

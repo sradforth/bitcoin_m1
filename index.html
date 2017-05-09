@@ -2,6 +2,8 @@
 body
 {
 	font-family:arial;
+    background-color: #444;
+    color: #ffffff;	
 }
 svg 
 {
@@ -14,17 +16,24 @@ svg
 
 
 <h1>Country M1 Value in BTC</h1>
-Each country's M1 value converted into BTC valuation using local currency conversion where possible.
+Each country's M1 value converted into BTC valuation using local currency conversion where possible (Otherwise their currency is converted to USD which is then converted to BTC).
 
+
+<br/>
 <br/>
 Source of exchange data is <a href="http://www.tradingeconomics.com/country-list/money-supply-m1">http://www.tradingeconomics.com/country-list/money-supply-m1</a>
 
+<br/>
+Data snapshot taken as of 2017/05/09  (The data can be updated via the node.js script)
+<br/>
+<br/>
+<h2>Countries M1 valuation expressed as Bitcoin</h2>
 <div id="geochart-colors" style="width: 1024px; height: 600px;"></div>
 <br/>
 <h2>Countries where bitcoin's market cap is greater in green</h2>
 <div id="geochart-market_cap_comparison" style="width: 1024px; height: 600px; text-align:center;"></div>
    
-   
+ 
    
    
    

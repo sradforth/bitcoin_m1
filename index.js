@@ -62,7 +62,7 @@ console.log( "BTC/USD rate is:"+rate_btc_usd);
 					{
 						var country = $(dom_row).children().first().children().first().text().trim();
 						/*
-						if( ( country == "Vietnam" ) ||
+						if( ( country == "Cyprus" ) ||
 							( country == "United Kingdom" ) )
 							*/
 						{
@@ -74,12 +74,12 @@ console.log( "BTC/USD rate is:"+rate_btc_usd);
 							{
 								multiplier = 1000000000;
 							}
-							if( denomination_raw.indexOf("Million") >= 0 )
+							else if( denomination_raw.indexOf("Million") >= 0 )
 							{
 								multiplier = 1000000;
 							}
-							if( ( denomination_raw.indexOf("Thousand") >= 0 ) ||
-								( denomination_raw.indexOf("Thousand") >= 0 ) )
+							else if( ( denomination_raw.indexOf("Thousand") >= 0 ) ||
+									 ( denomination_raw.indexOf("Thousands") >= 0 ) )
 							{
 								multiplier = 1000;
 							}
@@ -94,6 +94,7 @@ console.log( "BTC/USD rate is:"+rate_btc_usd);
 							var currency_swap_code = "BTC/"+currency_code; // E.g. 'USD/SAR'
 							var rate = swap.quoteSync({currency: currency_swap_code});
 							var exchange_value = rate[0].value;
+							var usd_rate_used = false;
 							if( exchange_value > 0 )
 							{
 								// Yes found direct BTC value in this country
@@ -112,12 +113,21 @@ console.log( "BTC/USD rate is:"+rate_btc_usd);
 									var value = value_in_usd;
 									//value = value_in_usd / rate_btc_usd;
 									exchange_value = rate_btc_usd;
+									usd_rate_used = true;
 								}
 							}
 							
 							if( exchange_value > 0 )
 							{
-								array_data[ country ] = (value * multiplier) / exchange_value;
+								var value_in_btc = (value * multiplier) / exchange_value;
+								var value_in_usd = value_in_btc * rate_btc_usd;
+								array_data[ country ] = { 
+									value_in_btc: value_in_btc,
+									value_in_usd: value_in_usd,
+									exchange_rate: exchange_value,
+									usd_rate_used: usd_rate_used,
+									multiplier_used: multiplier
+								};
 								console.log( "country:"+country+" value:"+value+" currency_code:"+currency_code + " exchange_value:" + exchange_value);
 							}
 							else

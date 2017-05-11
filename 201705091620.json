@@ -1,0 +1,800 @@
+{
+    "Albania": {
+        "value_in_btc": 1966727.1970012495,
+        "value_in_usd": 3441772594.752187,
+        "exchange_rate": "216090",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Angola": {
+        "value_in_btc": 12380279.278018748,
+        "value_in_usd": 21665488736.53281,
+        "exchange_rate": "290346.8750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Argentina": {
+        "value_in_btc": 33373682.817147586,
+        "value_in_usd": 58403944930.00828,
+        "exchange_rate": "27290.7250",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Armenia": {
+        "value_in_btc": 712189.4858463316,
+        "value_in_usd": 1246331600.2310803,
+        "exchange_rate": "848190",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Australia": {
+        "value_in_btc": 144557258.45972025,
+        "value_in_usd": 252975202304.51044,
+        "exchange_rate": "2379.3340",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Austria": {
+        "value_in_btc": 129110194.50114067,
+        "value_in_usd": 225942840376.9962,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Azerbaijan": {
+        "value_in_btc": 2865079.838194592,
+        "value_in_usd": 5013889716.840536,
+        "exchange_rate": "2935.6250",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Bahamas": {
+        "value_in_btc": 1406285.7142857143,
+        "value_in_usd": 2461000000,
+        "exchange_rate": "1750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Bahrain": {
+        "value_in_btc": 5173171.655930277,
+        "value_in_usd": 9053050397.877985,
+        "exchange_rate": "659.7500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Bangladesh": {
+        "value_in_btc": 14067736.399823086,
+        "value_in_usd": 24618538699.690403,
+        "exchange_rate": "141312.5000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Belarus": {
+        "value_in_btc": 1500552.2847267063,
+        "value_in_usd": 2625966498.271736,
+        "exchange_rate": "3290.8750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Belgium": {
+        "value_in_btc": 117709426.81419499,
+        "value_in_usd": 205991496924.84125,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Belize": {
+        "value_in_btc": 840005.7142857143,
+        "value_in_usd": 1470010000,
+        "exchange_rate": "1750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Bhutan": {
+        "value_in_btc": 455233.382668051,
+        "value_in_usd": 796658419.6690892,
+        "exchange_rate": "113172.5000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Bosnia and Herzegovina": {
+        "value_in_btc": 2983010.8305259347,
+        "value_in_usd": 5220268953.420385,
+        "exchange_rate": "3142.7375",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Botswana": {
+        "value_in_btc": 844688.3320122757,
+        "value_in_usd": 1478204581.0214825,
+        "exchange_rate": "18451.1250",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Brazil": {
+        "value_in_btc": 55191173.43411945,
+        "value_in_usd": 96584553509.70903,
+        "exchange_rate": "5569.5500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Brunei": {
+        "value_in_btc": 1894170.439926662,
+        "value_in_usd": 3314798269.8716583,
+        "exchange_rate": "2468.0250",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Bulgaria": {
+        "value_in_btc": 13064473.799317645,
+        "value_in_usd": 22862829148.805878,
+        "exchange_rate": "3143.5250",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Burundi": {
+        "value_in_btc": 212334.03528477234,
+        "value_in_usd": 371584561.7483516,
+        "exchange_rate": "2999993.8500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Canada": {
+        "value_in_btc": 379689865.8499655,
+        "value_in_usd": 664457265237.4397,
+        "exchange_rate": "2402.3475",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Cape Verde": {
+        "value_in_btc": 359713.436216905,
+        "value_in_usd": 629498513.3795837,
+        "exchange_rate": "176575",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Chile": {
+        "value_in_btc": 24794029.3472761,
+        "value_in_usd": 43389551357.73317,
+        "exchange_rate": "1185800",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "China": {
+        "value_in_btc": 4043989137.156839,
+        "value_in_usd": 7076980990024.468,
+        "exchange_rate": "12087.0750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Colombia": {
+        "value_in_btc": 17707427.96752877,
+        "value_in_usd": 30987998943.17535,
+        "exchange_rate": "5166420",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Congo": {
+        "value_in_btc": 684943.6454082176,
+        "value_in_usd": 1198651379.4643807,
+        "exchange_rate": "2468077.5000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Croatia": {
+        "value_in_btc": 6859145.840666432,
+        "value_in_usd": 12003505221.166256,
+        "exchange_rate": "11932.2000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Cyprus": {
+        "value_in_btc": 2755.4706731504734,
+        "value_in_usd": 4822073.678013328,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000
+    },
+    "Czech Republic": {
+        "value_in_btc": 84529138.27613199,
+        "value_in_usd": 147925991983.231,
+        "exchange_rate": "42828.9750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Denmark": {
+        "value_in_btc": 94078300.56179775,
+        "value_in_usd": 164637025983.14606,
+        "exchange_rate": "11961.6000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Ecuador": {
+        "value_in_btc": 13146668.57142857,
+        "value_in_usd": 23006670000,
+        "exchange_rate": "1750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Egypt": {
+        "value_in_btc": 19976762.96003166,
+        "value_in_usd": 34959335180.055405,
+        "exchange_rate": "31587.5000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "El Salvador": {
+        "value_in_btc": 1859085.7142857143,
+        "value_in_usd": 3253400000,
+        "exchange_rate": "1750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Estonia": {
+        "value_in_btc": 6992263.467044067,
+        "value_in_usd": 12236461067.327116,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Euro Area": {
+        "value_in_btc": 4597438426.366812,
+        "value_in_usd": 8045517246141.921,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Finland": {
+        "value_in_btc": 73690331.75705148,
+        "value_in_usd": 128958080574.84009,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "France": {
+        "value_in_btc": 671070027.839026,
+        "value_in_usd": 1174372548718.2954,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Georgia": {
+        "value_in_btc": 1157999.8897037255,
+        "value_in_usd": 2026499806.9815195,
+        "exchange_rate": "4261.2500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000
+    },
+    "Germany": {
+        "value_in_btc": 1210130053.3630586,
+        "value_in_usd": 2117727593385.3525,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Greece": {
+        "value_in_btc": 67259241.13877276,
+        "value_in_usd": 117703671992.85233,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Guatemala": {
+        "value_in_btc": 6034896.401308615,
+        "value_in_usd": 10561068702.290075,
+        "exchange_rate": "12838",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Hong Kong": {
+        "value_in_btc": 163625768.66710532,
+        "value_in_usd": 286345095167.4343,
+        "exchange_rate": "13621.3875",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Hungary": {
+        "value_in_btc": 32403464.777756687,
+        "value_in_usd": 56706063361.0742,
+        "exchange_rate": "500465",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Iceland": {
+        "value_in_btc": 2573876.551844728,
+        "value_in_usd": 4504283965.728274,
+        "exchange_rate": "185867.5000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "India": {
+        "value_in_btc": 199791720.56062987,
+        "value_in_usd": 349635510981.1023,
+        "exchange_rate": "113069.2500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Indonesia": {
+        "value_in_btc": 51988420.05110059,
+        "value_in_usd": 90979735089.42603,
+        "exchange_rate": "23385250",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Iraq": {
+        "value_in_btc": 34721200.0268517,
+        "value_in_usd": 60762100046.99047,
+        "exchange_rate": "2048287.5000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Ireland": {
+        "value_in_btc": 92045412.19732206,
+        "value_in_usd": 161079471345.3136,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Israel": {
+        "value_in_btc": 53018327.81004644,
+        "value_in_usd": 92782073667.58127,
+        "exchange_rate": "6314.1750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Italy": {
+        "value_in_btc": 639119259.7445768,
+        "value_in_usd": 1118458704553.0095,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Japan": {
+        "value_in_btc": 3502991186.0468903,
+        "value_in_usd": 6130234575582.058,
+        "exchange_rate": "199711.7500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Jordan": {
+        "value_in_btc": 8113640.9429780375,
+        "value_in_usd": 14198871650.211565,
+        "exchange_rate": "1240.7500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Kazakhstan": {
+        "value_in_btc": 8842852.43231967,
+        "value_in_usd": 15474991756.559423,
+        "exchange_rate": "557261.2500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Kenya": {
+        "value_in_btc": 7249079.278930025,
+        "value_in_usd": 12685888738.127544,
+        "exchange_rate": "180565",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Kuwait": {
+        "value_in_btc": 18078253.0767751,
+        "value_in_usd": 31636942884.356426,
+        "exchange_rate": "532.8225",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Kyrgyzstan": {
+        "value_in_btc": 769333.9112405488,
+        "value_in_usd": 1346334344.6709604,
+        "exchange_rate": "118358.1000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Latvia": {
+        "value_in_btc": 6392704.404566056,
+        "value_in_usd": 11187232707.990599,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Lebanon": {
+        "value_in_btc": 3650297.8160158833,
+        "value_in_usd": 6388021178.027796,
+        "exchange_rate": "2644250",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Lesotho": {
+        "value_in_btc": 205046.27612438245,
+        "value_in_usd": 358830983.2176693,
+        "exchange_rate": "23754.1500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Lithuania": {
+        "value_in_btc": 8578914.371929064,
+        "value_in_usd": 15013100150.875862,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Luxembourg": {
+        "value_in_btc": 145332569.2589638,
+        "value_in_usd": 254331996203.18665,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Macau": {
+        "value_in_btc": 5081605.696217757,
+        "value_in_usd": 8892809968.381075,
+        "exchange_rate": "14030.3625",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Macedonia": {
+        "value_in_btc": 1060118.0052811785,
+        "value_in_usd": 1855206509.2420623,
+        "exchange_rate": "98936.2500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Malaysia": {
+        "value_in_btc": 50842902.49433107,
+        "value_in_usd": 88975079365.07938,
+        "exchange_rate": "7607.2500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Malta": {
+        "value_in_btc": 8639716.392449949,
+        "value_in_usd": 15119503686.78741,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Mexico": {
+        "value_in_btc": 113031756.4084568,
+        "value_in_usd": 197805573714.7994,
+        "exchange_rate": "33483.1000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000
+    },
+    "Moldova": {
+        "value_in_btc": 844454.6491294762,
+        "value_in_usd": 1477795635.9765832,
+        "exchange_rate": "32882.5000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Mongolia": {
+        "value_in_btc": 493916.7990515708,
+        "value_in_usd": 864354398.340249,
+        "exchange_rate": "4217500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Morocco": {
+        "value_in_btc": 43357866.771056116,
+        "value_in_usd": 75876266849.3482,
+        "exchange_rate": "17370.8500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Namibia": {
+        "value_in_btc": 1675875.583845349,
+        "value_in_usd": 2932782271.7293606,
+        "exchange_rate": "23754.1500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Netherlands": {
+        "value_in_btc": 288658105.69074684,
+        "value_in_usd": 505151684958.807,
+        "exchange_rate": "1607.3479",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "New Zealand": {
+        "value_in_btc": 23120121.010992527,
+        "value_in_usd": 40460211769.23692,
+        "exchange_rate": "2536.2324",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Nicaragua": {
+        "value_in_btc": 1053294.3183608348,
+        "value_in_usd": 1843265057.131461,
+        "exchange_rate": "52210.7250",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Nigeria": {
+        "value_in_btc": 18073739.63009191,
+        "value_in_usd": 31629044352.660843,
+        "exchange_rate": "550812.5000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Norway": {
+        "value_in_btc": 123203958.72164087,
+        "value_in_usd": 215606927762.87152,
+        "exchange_rate": "15196.8250",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Oman": {
+        "value_in_btc": 7421595.547309833,
+        "value_in_usd": 12987792207.792208,
+        "exchange_rate": "673.7500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Pakistan": {
+        "value_in_btc": 59369877.68730196,
+        "value_in_usd": 103897285952.77844,
+        "exchange_rate": "183443.7500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Peru": {
+        "value_in_btc": 12594645.630920112,
+        "value_in_usd": 22040629854.110195,
+        "exchange_rate": "5745.7750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Philippines": {
+        "value_in_btc": 35530949.55141891,
+        "value_in_usd": 62179161714.983086,
+        "exchange_rate": "87470.2500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Poland": {
+        "value_in_btc": 119343163.67403188,
+        "value_in_usd": 208850536429.5558,
+        "exchange_rate": "6793.7625",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Portugal": {
+        "value_in_btc": 65858967.2033939,
+        "value_in_usd": 115253192605.93932,
+        "exchange_rate": "1607.4956",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Qatar": {
+        "value_in_btc": 21161986.88851313,
+        "value_in_usd": 37033477054.89798,
+        "exchange_rate": "6372.2750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Romania": {
+        "value_in_btc": 24748545.04632272,
+        "value_in_usd": 43309953831.06476,
+        "exchange_rate": "7315.5250",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Russia": {
+        "value_in_btc": 169678.92611290482,
+        "value_in_usd": 296938120.69758344,
+        "exchange_rate": "101992.1000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Rwanda": {
+        "value_in_btc": 876606.0606060605,
+        "value_in_usd": 1534060606.060606,
+        "exchange_rate": "1443750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Sao Tome And Principe": {
+        "value_in_btc": 36340.60596165032,
+        "value_in_usd": 63596060.43288806,
+        "exchange_rate": "39197200",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Saudi Arabia": {
+        "value_in_btc": 177609245.49000487,
+        "value_in_usd": 310816179607.50854,
+        "exchange_rate": "6563.2000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Serbia": {
+        "value_in_btc": 2924585.2758720894,
+        "value_in_usd": 5118024232.776156,
+        "exchange_rate": "197872.5000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Seychelles": {
+        "value_in_btc": 187241.86289900576,
+        "value_in_usd": 327673260.07326007,
+        "exchange_rate": "23887.5000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Sierra Leone": {
+        "value_in_btc": 197238.94811656006,
+        "value_in_usd": 345168159.2039801,
+        "exchange_rate": "13190625",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Singapore": {
+        "value_in_btc": 70432448.29994635,
+        "value_in_usd": 123256784524.90611,
+        "exchange_rate": "2469.7750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Slovakia": {
+        "value_in_btc": 26874101.55275075,
+        "value_in_usd": 47029677717.31381,
+        "exchange_rate": "1607.4956",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Slovenia": {
+        "value_in_btc": 10246995.388354408,
+        "value_in_usd": 17932241929.620213,
+        "exchange_rate": "1607.4956",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "South Africa": {
+        "value_in_btc": 67430724.65230905,
+        "value_in_usd": 118003768141.54083,
+        "exchange_rate": "23778.3000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "South Korea": {
+        "value_in_btc": 391165054.2171362,
+        "value_in_usd": 684538844879.9884,
+        "exchange_rate": "1989338.7500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Spain": {
+        "value_in_btc": 515358175.7859866,
+        "value_in_usd": 901876807625.4766,
+        "exchange_rate": "1607.4956",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Sri Lanka": {
+        "value_in_btc": 2791717.8287888872,
+        "value_in_usd": 4885506200.380552,
+        "exchange_rate": "266717.5000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Sudan": {
+        "value_in_btc": 6543241.511851378,
+        "value_in_usd": 11450672645.739912,
+        "exchange_rate": "11707.5000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Swaziland": {
+        "value_in_btc": 253176.81331472605,
+        "value_in_usd": 443059423.3007706,
+        "exchange_rate": "23754.1500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Sweden": {
+        "value_in_btc": 166902235.7486602,
+        "value_in_usd": 292078912560.15533,
+        "exchange_rate": "15545.6875",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Switzerland": {
+        "value_in_btc": 340784124.460595,
+        "value_in_usd": 596372217806.0413,
+        "exchange_rate": "1761.2000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Taiwan": {
+        "value_in_btc": 116872218.2103092,
+        "value_in_usd": 204526381868.0411,
+        "exchange_rate": "52967.2500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Tajikistan": {
+        "value_in_btc": 570.2077023661061,
+        "value_in_usd": 997863.4791406856,
+        "exchange_rate": "14874.6500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000
+    },
+    "Thailand": {
+        "value_in_btc": 30772011.99720613,
+        "value_in_usd": 53851020995.110725,
+        "exchange_rate": "60847.5000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Tunisia": {
+        "value_in_btc": 6167.939111521651,
+        "value_in_usd": 10793893.44516289,
+        "exchange_rate": "4235.6125",
+        "usd_rate_used": false,
+        "multiplier_used": 1000
+    },
+    "Turkey": {
+        "value_in_btc": 63930463.351473674,
+        "value_in_usd": 111878310865.07893,
+        "exchange_rate": "6275.1500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000
+    },
+    "Ukraine": {
+        "value_in_btc": 11003557.95148248,
+        "value_in_usd": 19256226415.09434,
+        "exchange_rate": "46375",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "United Arab Emirates": {
+        "value_in_btc": 78474385.75201379,
+        "value_in_usd": 137330175066.02412,
+        "exchange_rate": "6427.5750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "United Kingdom": {
+        "value_in_btc": 1213449855.886483,
+        "value_in_usd": 2123537247801.3452,
+        "exchange_rate": "1353.1000",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "United States": {
+        "value_in_btc": 1963714285.7142856,
+        "value_in_usd": 3436500000000,
+        "exchange_rate": "1750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Uruguay": {
+        "value_in_btc": 2738566.552901024,
+        "value_in_usd": 4792491467.576792,
+        "exchange_rate": "48711.2500",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Venezuela": {
+        "value_in_btc": 764840244.0923216,
+        "value_in_usd": 1338470427161.5627,
+        "exchange_rate": "17581.4625",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000
+    },
+    "Vietnam": {
+        "value_in_btc": 36602447.72273806,
+        "value_in_usd": 64054283514.7916,
+        "exchange_rate": "39781875",
+        "usd_rate_used": false,
+        "multiplier_used": 1000000000
+    },
+    "Zimbabwe": {
+        "value_in_btc": 1933623.4285714286,
+        "value_in_usd": 3383841000,
+        "exchange_rate": "1750",
+        "usd_rate_used": false,
+        "multiplier_used": 1000
+    }
+}

@@ -20,8 +20,9 @@ var options =
 }
 swap.addProvider(new swap.providers.GoogleFinance());
 swap.addProvider(new swap.providers.EuropeanCentralBank(options));
-// Add the yahoo finance provider with request timeout option in ms
-//swap.addProvider(new swap.providers.YahooFinance({timeout: 2000}));
+swap.addProvider(new swap.providers.YahooFinance({timeout: 2000}));
+// swap.addProvider(new swap.providers.CurrencyLayer(options)); Requires key
+// swap.addProvider(new swap.providers.OpenExchangeRates(options));  Requires registration at https://openexchangerates.org/
 
 
 //app.get('/scrape', function(req, res)

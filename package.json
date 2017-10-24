@@ -21,8 +21,8 @@
   "homepage": "https://github.com/sradforth/bitcoin_m1#readme",
   "dependencies": {
     "cheerio": "^0.22.0",
-    "express": "^4.15.2",
+    "express": "^4.16.2",
     "node-currency-swap": "^1.0.6",
-    "request": "^2.81.0"
+    "request": "^2.83.0"
   }
 }
